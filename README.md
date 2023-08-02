@@ -1,5 +1,5 @@
 # diwan_scraping
-#### This project aims to scrape all quotes from <a href="www.aldiwan.net/quotes.html" target="_blank">Diwan Quotes</a> then make designs for them
+#### This project aims to scrape all quotes from <a href="www.aldiwan.net/quotes" target="_blank">Diwan Quotes</a> then make designs for them
 #### I scraped quotes to .txt file, that's the best extension for text content.
 
 ![presentation](https://github.com/AhmedElmarghany/diwan_scraping/assets/113950259/ad829d16-4549-4fc1-b678-a0624f96a184)
